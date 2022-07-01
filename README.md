@@ -8,10 +8,11 @@ This repository contains a complete RC hydroplane design:
 
 NOTE: The project is currently in the design phase, and I haven't actually built it yet, so use it at your own... expense.
 
-![full_model_render](https://github.com/petiaccja/rc_hydroplane/blob/images/frame_front.jpg)
+![full_model_render](https://raw.githubusercontent.com/petiaccja/rc_hydroplane/images/frame_front.jpg)
 
-![frame_front](https://github.com/petiaccja/rc_hydroplane/blob/images/photo_render.jpg)
+![frame_front](https://raw.githubusercontent.com/petiaccja/rc_hydroplane/images/photo_render.jpg)
 
+![cfd_bottom](https://raw.githubusercontent.com/petiaccja/rc_hydroplane/images/cfd_bottom.jpeg)
 
 ## Building the boat
 
